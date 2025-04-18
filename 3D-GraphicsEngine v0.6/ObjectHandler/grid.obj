@@ -1,0 +1,49 @@
+# 3D Grid OBJ File (10x10 grid)
+# Vertices
+v -5.0 0.0 -5.0
+v -5.0 0.0 -4.0
+v -5.0 0.0 -3.0
+v -5.0 0.0 -2.0
+v -5.0 0.0 -1.0
+v -5.0 0.0  0.0
+v -5.0 0.0  1.0
+v -5.0 0.0  2.0
+v -5.0 0.0  3.0
+v -5.0 0.0  4.0
+v -5.0 0.0  5.0
+v -4.0 0.0 -5.0
+v -4.0 0.0 -4.0
+v -4.0 0.0 -3.0
+v -4.0 0.0 -2.0
+v -4.0 0.0 -1.0
+v -4.0 0.0  0.0
+v -4.0 0.0  1.0
+v -4.0 0.0  2.0
+v -4.0 0.0  3.0
+v -4.0 0.0  4.0
+v -4.0 0.0  5.0
+v  4.0 0.0  5.0
+v  4.0 0.0  4.0
+v  4.0 0.0  3.0
+v  4.0 0.0  2.0
+v  4.0 0.0  1.0
+v  4.0 0.0  0.0
+v  4.0 0.0 -1.0
+v  4.0 0.0 -2.0
+v  4.0 0.0 -3.0
+v  4.0 0.0 -4.0
+v  4.0 0.0 -5.0
+# Faces (triangles)
+# Define the triangles to form the grid
+# Example for a 10x10 grid (you can continue this pattern):
+f 1 2 12
+f 2 3 13
+f 3 4 14
+f 4 5 15
+f 5 6 16
+f 6 7 17
+f 7 8 18
+f 8 9 19
+f 9 10 20
+f 10 11 21
+# ... Continue defining triangles to form the grid for all rows and columns
