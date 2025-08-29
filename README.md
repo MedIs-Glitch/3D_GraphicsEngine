@@ -16,7 +16,7 @@ It allows you to create, view, and manipulate 3D models, similar to basic featur
 
 ## 📸 Screenshots
 
-| ![screenshot1](images/screenshot1.png) | ![screenshot2](images/screenshot2.png) | ![screenshot3](images/screenshot3.png) |
+| ![screenshot1](Screenshot3.png) | ![screenshot2](Screenshot2.png) | ![screenshot3](Sscreenshot1.png) |
 |----------------------------------------|----------------------------------------|----------------------------------------|
-| 3D viewport with a character model      | UI with menus and tools                 | Wireframe/grid display                  |
+| 3D viewport                            | UI with menus and tools                | Import and edit modles                  |
 
