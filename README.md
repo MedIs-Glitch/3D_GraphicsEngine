@@ -20,14 +20,3 @@ It allows you to create, view, and manipulate 3D models, similar to basic featur
 |----------------------------------------|----------------------------------------|----------------------------------------|
 | 3D viewport with a character model      | UI with menus and tools                 | Wireframe/grid display                  |
 
-*(Put your screenshots inside a folder called `images/` in your repo)*
-
----
-
-## 🛠️ Installation & Run
-Clone and run:
-```bash
-git clone https://github.com/yourusername/3d-modeler-java.git
-cd 3d-modeler-java
-javac Main.java
-java Main
