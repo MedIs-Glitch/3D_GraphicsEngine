@@ -8,9 +8,9 @@ It allows you to create, view, and manipulate 3D models, similar to basic featur
 ## 🚀 Features
 - Pure **Java Swing** UI (no external graphics libraries).
 - **Custom 3D engine**: rendering pipeline, shading, transformations.
-- **Import / Export** of 3D models (planned).
+- **Import / Export** of 3D models.
 - **Grid & Camera controls** for navigation.
-- Supports **basic primitives** (cube, sphere, human base mesh, etc.).
+- Supports obj files.
 
 ---
 
